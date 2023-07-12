@@ -2,8 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   
   <div id="badges">
-  <a href="www.linkedin.com/in/samuel-ibiyemi-a769a7261
-">
+  <a href="www.linkedin.com/in/samuel-ibiyemi-a769a7261">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
@@ -27,9 +26,9 @@
 
 I am a Front End Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">from Nigeria.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend for building web applications.
+- :telescope: I am a Software Engineer and actively involved in frontend development to create web applications.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring Cyber Security.
 
 - :zap: In my free time, I solve problems on Hackerrank and read tech articles.
 
