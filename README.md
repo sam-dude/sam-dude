@@ -26,7 +26,7 @@
 
 - 🥇 I am a Front End Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">from Nigeria.
 
-- :telescope: I am a Software Engineer and actively involved in frontend development to create web applications.
+- :telescope: Software Engineer and actively involved in frontend development to create web applications.
 
 - :seedling: Exploring Cyber Security.
 
