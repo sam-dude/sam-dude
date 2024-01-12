@@ -24,13 +24,13 @@
 
 ### :man_technologist: About Me :
 
-- 🥇 I am a Front End Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">from Nigeria.
+- 🥇 A Bubbling Software Engineer from Nigeria <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
-- :telescope: Software Engineer and actively involved in frontend development to create web applications.
+- :telescope: Loves building dynamic web solutions and mobile apllications.
 
-- :seedling: Exploring Cyber Security.
+- :seedling: Exploring mobile engineering, web and Artificial Intelligence.
 
-- :zap: In my free time, I solve problems on Hackerrank and read tech articles.
+- :zap: In my free time, I solve problems on Hackerrank and read tech articles. 
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/samuel-ibiyemi-a769a7261)
 
