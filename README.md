@@ -26,9 +26,9 @@
 
 - 🥇 A Bubbling Software Engineer from Nigeria <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
-- :telescope: Loves building dynamic web solutions and mobile apllications.
+- :telescope: Building dynamic web solutions and mobile apllications.
 
-- :seedling: Exploring mobile engineering, web and Artificial Intelligence.
+- :seedling: Exploring mobile engineering, web development and Artificial Intelligence.
 
 - :zap: In my free time, I solve problems on Hackerrank and read tech articles. 
 
