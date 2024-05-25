@@ -24,9 +24,9 @@
 
 ### :man_technologist: About Me :
 
-- 🥇 A Bubbling Software Engineer from Nigeria <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+- 🥇 A Bubbling Software Engineer from Nigeria.
 
-- :telescope: Building dynamic Cross Platform Mobile Apllications and web solutions.
+- :telescope: Building dynamic cross platform mobile apllications and web solutions.
 
 - :seedling: Exploring mobile engineering, web development and Artificial Intelligence.
 
@@ -58,6 +58,8 @@
 
 ### :fire: My Stats :
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sam-dude&theme=whatsapp-dark2" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sam-dude&theme=dark" alt="GitHub Streak" /></a>
+
+![sam-dude's GitHub stats](https://github-readme-stats.vercel.app/api?username=sam-dude&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sam-dude&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
